@@ -5,9 +5,9 @@
   "require": {
     "php": "^7.4|^8.0",
     "illuminate/support": "^12.0",
-    "illuminate/container": "^8.65|^9.33|^10.0|^11.0",
-    "illuminate/database": "^8.65|^9.33|^10.0|^11.0",
-    "illuminate/events": "^8.65|^9.33|^10.0|^11.0"
+    "illuminate/container": "^12.0",
+    "illuminate/database": "^12.0",
+    "illuminate/events": "^12.0"
   },
   "require-dev": {
     "mockery/mockery": "^1.4",
